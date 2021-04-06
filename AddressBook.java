@@ -12,7 +12,7 @@ public class AddressBook {
     public static  void contacts() {
         //Welcome message
         System.out.println("Welcome to the Address Book!");
-
+	//can store multiple contact details
         ArrayList<String> firstName = new ArrayList<String>();
         ArrayList<String> lastName = new ArrayList<String>();
         ArrayList<String> city = new ArrayList<String>();
